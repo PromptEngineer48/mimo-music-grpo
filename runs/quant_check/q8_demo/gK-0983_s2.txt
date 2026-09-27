@@ -1,0 +1,126 @@
+Compose a swing big-band chart in E major, 154 BPM allegro, 4/4, about 80 bars and about three minutes, scored for sax section, brass, piano, bass and drums in 6 voices. Texture: sectional brass and sax call-and-response over a swinging rhythm section. Open with 8 bars of sax section alone, then layer the other parts in one at a time. The main section runs on a 8-bar diatonic loop of I–V–vi–IV, unchanged throughout. Thin the middle section to two voices for two descending phrases, then return with everything for the fullest passage. Dynamics start at pp, push to mf in the middle and settle back to pp for a sustained tonic close. Aim for the feeling of a flyover at summer dusk. Use no ornament symbols; write every note out. Output the complete piece as ABC notation.
+
+SCORE 0.408
+
+```abc
+X:1
+T:Summer Dusk Flyover
+M:4/4
+L:1/8
+Q:154
+K:E Maj
+V:Sax:MF
+% Sax Section (8 bars alone)
+A2 E2 A2 E2
+A2 E2 A2 E2
+A2 E2 A2 E2
+A2 E2 A2 E2
+V:Sax:MF
+% Sax Section (8 bars alone)
+A2 E2 A2 E2
+A2 E2 A2 E2
+A2 E2 A2 E2
+A2 E2 A2 E2
+V:Brass:PP
+% Brass Enters (after 8 bars)
+E2 A2 E2 A2
+E2 A2 E2 A2
+E2 A2 E2 A2
+E2 A2 E2 A2
+V:Piano:PP
+% Piano Enters (after 16 bars)
+E2 E2 A2 A2
+E2 E2 A2 A2
+E2 E2 A2 A2
+E2 E2 A2 A2
+V:Bass:PP
+% Bass Enters (after 24 bars)
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+V:Drums:PP
+% Drums Enters (after 32 bars)
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+V:Sax:MF
+% Main Section (loop of I–V–vi–IV)
+A2 E2 A2 E2
+A2 E2 A2 E2
+A2 E2 A2 E2
+A2 E2 A2 E2
+V:Brass:MF
+% Brass Enters (after 40 bars)
+E2 A2 E2 A2
+E2 A2 E2 A2
+E2 A2 E2 A2
+E2 A2 E2 A2
+V:Piano:MF
+% Piano Enters (after 48 bars)
+E2 E2 A2 A2
+E2 E2 A2 A2
+E2 E2 A2 A2
+E2 E2 A2 A2
+V:Bass:MF
+% Bass Enters (after 56 bars)
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+V:Drums:MF
+% Drums Enters (after 64 bars)
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+V:Sax:PP
+% Middle Section (reduced to two voices)
+A2 E2 A2 E2
+A2 E2 A2 E2
+E2 A2 E2 A2
+E2 A2 E2 A2
+V:Brass:PP
+% Brass Enters (after 72 bars)
+E2 A2 E2 A2
+E2 A2 E2 A2
+E2 A2 E2 A2
+E2 A2 E2 A2
+V:Sax:MF
+% Return to full section
+A2 E2 A2 E2
+A2 E2 A2 E2
+A2 E2 A2 E2
+A2 E2 A2 E2
+V:Brass:MF
+% Brass Enters (after 80 bars)
+E2 A2 E2 A2
+E2 A2 E2 A2
+E2 A2 E2 A2
+E2 A2 E2 A2
+V:Piano:MF
+% Piano Enters (after 88 bars)
+E2 E2 A2 A2
+E2 E2 A2 A2
+E2 E2 A2 A2
+E2 E2 A2 A2
+V:Bass:MF
+% Bass Enters (after 96 bars)
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+V:Drums:MF
+% Drums Enters (after 104 bars)
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+E2 E2 E2 E2
+V:Sax:PP
+% Sustained tonic close
+A2 A2 A2 A2
+A2 A2 A2 A2
+A2 A2 A2 A2
+A2 A2 A2 A2
+```

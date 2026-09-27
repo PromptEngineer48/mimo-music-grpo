@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+ckpt/
+results/
+media/
+blind/
+charts/
+!runs/**

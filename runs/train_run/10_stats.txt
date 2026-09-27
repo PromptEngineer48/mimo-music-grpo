@@ -1,0 +1,5 @@
+before valid 1 / 160 | prompts w/ >=1 valid 1 /40 | blank-line pieces 148 | avg tokens 2171 | fails {'reject(err/bar/blank/ch_conflict)': 159, None: 1}
+  group means (valid): {'rhythm': 43.1, 'texture': 100.0, 'acoustic': 31.8, 'tonal': 16.7, 'register': 11.1, 'structure': 0.0} mean total valid 0.326
+after valid 19 / 160 | prompts w/ >=1 valid 13 /40 | blank-line pieces 132 | avg tokens 1256 | fails {'reject(err/bar/blank/ch_conflict)': 141, None: 19}
+  group means (valid): {'rhythm': 24.3, 'texture': 61.2, 'acoustic': 46.5, 'tonal': 41.0, 'register': 14.0, 'structure': 52.0} mean total valid 0.342
+train reward per step: [0.013, 0.013, 0.018, 0.018, 0.03, 0.021, 0.027, 0.026, 0.032, 0.032, 0.035, 0.048, 0.052, 0.06, 0.091, 0.052, 0.072, 0.047, 0.085, 0.066, 0.106, 0.11, 0.092, 0.091, 0.079, 0.101, 0.151, 0.116, 0.094, 0.118]

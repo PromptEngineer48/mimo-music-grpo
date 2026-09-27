@@ -1,0 +1,837 @@
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27604 (\N{CJK UNIFIED IDEOGRAPH-6BD4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27874 (\N{CJK UNIFIED IDEOGRAPH-6CE2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26222 (\N{CJK UNIFIED IDEOGRAPH-666E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25671 (\N{CJK UNIFIED IDEOGRAPH-6447}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25670 (\N{CJK UNIFIED IDEOGRAPH-6446}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29237 (\N{CJK UNIFIED IDEOGRAPH-7235}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22763 (\N{CJK UNIFIED IDEOGRAPH-58EB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22823 (\N{CJK UNIFIED IDEOGRAPH-5927}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38431 (\N{CJK UNIFIED IDEOGRAPH-961F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21475 (\N{CJK UNIFIED IDEOGRAPH-53E3}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26408 (\N{CJK UNIFIED IDEOGRAPH-6728}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31649 (\N{CJK UNIFIED IDEOGRAPH-7BA1}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20116 (\N{CJK UNIFIED IDEOGRAPH-4E94}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26032 (\N{CJK UNIFIED IDEOGRAPH-65B0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28789 (\N{CJK UNIFIED IDEOGRAPH-7075}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39746 (\N{CJK UNIFIED IDEOGRAPH-9B42}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31616 (\N{CJK UNIFIED IDEOGRAPH-7B80}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21333 (\N{CJK UNIFIED IDEOGRAPH-5355}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21697 (\N{CJK UNIFIED IDEOGRAPH-54C1}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38108 (\N{CJK UNIFIED IDEOGRAPH-94DC}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31649 (\N{CJK UNIFIED IDEOGRAPH-7BA1}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20116 (\N{CJK UNIFIED IDEOGRAPH-4E94}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24358 (\N{CJK UNIFIED IDEOGRAPH-5F26}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21512 (\N{CJK UNIFIED IDEOGRAPH-5408}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 32500 (\N{CJK UNIFIED IDEOGRAPH-7EF4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20063 (\N{CJK UNIFIED IDEOGRAPH-4E5F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 32435 (\N{CJK UNIFIED IDEOGRAPH-7EB3}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22278 (\N{CJK UNIFIED IDEOGRAPH-5706}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 33310 (\N{CJK UNIFIED IDEOGRAPH-821E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24358 (\N{CJK UNIFIED IDEOGRAPH-5F26}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22235 (\N{CJK UNIFIED IDEOGRAPH-56DB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 65288 (\N{FULLWIDTH LEFT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28023 (\N{CJK UNIFIED IDEOGRAPH-6D77}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39039 (\N{CJK UNIFIED IDEOGRAPH-987F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39118 (\N{CJK UNIFIED IDEOGRAPH-98CE}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 65289 (\N{FULLWIDTH RIGHT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26408 (\N{CJK UNIFIED IDEOGRAPH-6728}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21513 (\N{CJK UNIFIED IDEOGRAPH-5409}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20182 (\N{CJK UNIFIED IDEOGRAPH-4ED6}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24377 (\N{CJK UNIFIED IDEOGRAPH-5F39}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21809 (\N{CJK UNIFIED IDEOGRAPH-5531}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20276 (\N{CJK UNIFIED IDEOGRAPH-4F34}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26032 (\N{CJK UNIFIED IDEOGRAPH-65B0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28789 (\N{CJK UNIFIED IDEOGRAPH-7075}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39746 (\N{CJK UNIFIED IDEOGRAPH-9B42}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24358 (\N{CJK UNIFIED IDEOGRAPH-5F26}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21512 (\N{CJK UNIFIED IDEOGRAPH-5408}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29237 (\N{CJK UNIFIED IDEOGRAPH-7235}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22763 (\N{CJK UNIFIED IDEOGRAPH-58EB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 19977 (\N{CJK UNIFIED IDEOGRAPH-4E09}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:46: UserWarning: Glyph 26705 (\N{CJK UNIFIED IDEOGRAPH-6851}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 24052 (\N{CJK UNIFIED IDEOGRAPH-5DF4}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:47: UserWarning: Glyph 26705 (\N{CJK UNIFIED IDEOGRAPH-6851}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 24052 (\N{CJK UNIFIED IDEOGRAPH-5DF4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26408 (\N{CJK UNIFIED IDEOGRAPH-6728}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21513 (\N{CJK UNIFIED IDEOGRAPH-5409}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20182 (\N{CJK UNIFIED IDEOGRAPH-4ED6}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24377 (\N{CJK UNIFIED IDEOGRAPH-5F39}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21809 (\N{CJK UNIFIED IDEOGRAPH-5531}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20276 (\N{CJK UNIFIED IDEOGRAPH-4F34}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 33832 (\N{CJK UNIFIED IDEOGRAPH-8428}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 33922 (\N{CJK UNIFIED IDEOGRAPH-8482}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39118 (\N{CJK UNIFIED IDEOGRAPH-98CE}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26684 (\N{CJK UNIFIED IDEOGRAPH-683C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 35064 (\N{CJK UNIFIED IDEOGRAPH-88F8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20307 (\N{CJK UNIFIED IDEOGRAPH-4F53}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27468 (\N{CJK UNIFIED IDEOGRAPH-6B4C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 33310 (\N{CJK UNIFIED IDEOGRAPH-821E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28789 (\N{CJK UNIFIED IDEOGRAPH-7075}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27468 (\N{CJK UNIFIED IDEOGRAPH-6B4C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22812 (\N{CJK UNIFIED IDEOGRAPH-591C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21476 (\N{CJK UNIFIED IDEOGRAPH-53E4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20856 (\N{CJK UNIFIED IDEOGRAPH-5178}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20027 (\N{CJK UNIFIED IDEOGRAPH-4E3B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39064 (\N{CJK UNIFIED IDEOGRAPH-9898}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 19982 (\N{CJK UNIFIED IDEOGRAPH-4E0E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21464 (\N{CJK UNIFIED IDEOGRAPH-53D8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24052 (\N{CJK UNIFIED IDEOGRAPH-5DF4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27931 (\N{CJK UNIFIED IDEOGRAPH-6D1B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20811 (\N{CJK UNIFIED IDEOGRAPH-514B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20108 (\N{CJK UNIFIED IDEOGRAPH-4E8C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22768 (\N{CJK UNIFIED IDEOGRAPH-58F0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37096 (\N{CJK UNIFIED IDEOGRAPH-90E8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21019 (\N{CJK UNIFIED IDEOGRAPH-521B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24847 (\N{CJK UNIFIED IDEOGRAPH-610F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21476 (\N{CJK UNIFIED IDEOGRAPH-53E4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31581 (\N{CJK UNIFIED IDEOGRAPH-7B5D}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29420 (\N{CJK UNIFIED IDEOGRAPH-72EC}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22812 (\N{CJK UNIFIED IDEOGRAPH-591C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21476 (\N{CJK UNIFIED IDEOGRAPH-53E4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20856 (\N{CJK UNIFIED IDEOGRAPH-5178}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27493 (\N{CJK UNIFIED IDEOGRAPH-6B65}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 33310 (\N{CJK UNIFIED IDEOGRAPH-821E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38271 (\N{CJK UNIFIED IDEOGRAPH-957F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31515 (\N{CJK UNIFIED IDEOGRAPH-7B1B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29420 (\N{CJK UNIFIED IDEOGRAPH-72EC}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39532 (\N{CJK UNIFIED IDEOGRAPH-9A6C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31062 (\N{CJK UNIFIED IDEOGRAPH-7956}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21345 (\N{CJK UNIFIED IDEOGRAPH-5361}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27874 (\N{CJK UNIFIED IDEOGRAPH-6CE2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23572 (\N{CJK UNIFIED IDEOGRAPH-5C14}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21345 (\N{CJK UNIFIED IDEOGRAPH-5361}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21476 (\N{CJK UNIFIED IDEOGRAPH-53E4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20856 (\N{CJK UNIFIED IDEOGRAPH-5178}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 40483 (\N{CJK UNIFIED IDEOGRAPH-9E23}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20843 (\N{CJK UNIFIED IDEOGRAPH-516B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38899 (\N{CJK UNIFIED IDEOGRAPH-97F3}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 30418 (\N{CJK UNIFIED IDEOGRAPH-76D2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 32918 (\N{CJK UNIFIED IDEOGRAPH-8096}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37030 (\N{CJK UNIFIED IDEOGRAPH-90A6}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39118 (\N{CJK UNIFIED IDEOGRAPH-98CE}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26684 (\N{CJK UNIFIED IDEOGRAPH-683C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22812 (\N{CJK UNIFIED IDEOGRAPH-591C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22235 (\N{CJK UNIFIED IDEOGRAPH-56DB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25163 (\N{CJK UNIFIED IDEOGRAPH-624B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 32852 (\N{CJK UNIFIED IDEOGRAPH-8054}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24377 (\N{CJK UNIFIED IDEOGRAPH-5F39}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 35199 (\N{CJK UNIFIED IDEOGRAPH-897F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37096 (\N{CJK UNIFIED IDEOGRAPH-90E8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20065 (\N{CJK UNIFIED IDEOGRAPH-4E61}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26449 (\N{CJK UNIFIED IDEOGRAPH-6751}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25289 (\N{CJK UNIFIED IDEOGRAPH-62C9}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26684 (\N{CJK UNIFIED IDEOGRAPH-683C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27888 (\N{CJK UNIFIED IDEOGRAPH-6CF0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22982 (\N{CJK UNIFIED IDEOGRAPH-59C6}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 35856 (\N{CJK UNIFIED IDEOGRAPH-8C10}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 35857 (\N{CJK UNIFIED IDEOGRAPH-8C11}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31649 (\N{CJK UNIFIED IDEOGRAPH-7BA1}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24358 (\N{CJK UNIFIED IDEOGRAPH-5F26}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22242 (\N{CJK UNIFIED IDEOGRAPH-56E2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20840 (\N{CJK UNIFIED IDEOGRAPH-5168}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21512 (\N{CJK UNIFIED IDEOGRAPH-5408}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25104 (\N{CJK UNIFIED IDEOGRAPH-6210}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22120 (\N{CJK UNIFIED IDEOGRAPH-5668}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28010 (\N{CJK UNIFIED IDEOGRAPH-6D6A}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28526 (\N{CJK UNIFIED IDEOGRAPH-6F6E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 65288 (\N{FULLWIDTH LEFT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 65289 (\N{FULLWIDTH RIGHT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24052 (\N{CJK UNIFIED IDEOGRAPH-5DF4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 36203 (\N{CJK UNIFIED IDEOGRAPH-8D6B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39118 (\N{CJK UNIFIED IDEOGRAPH-98CE}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26684 (\N{CJK UNIFIED IDEOGRAPH-683C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22235 (\N{CJK UNIFIED IDEOGRAPH-56DB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22768 (\N{CJK UNIFIED IDEOGRAPH-58F0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37096 (\N{CJK UNIFIED IDEOGRAPH-90E8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20247 (\N{CJK UNIFIED IDEOGRAPH-4F17}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 36190 (\N{CJK UNIFIED IDEOGRAPH-8D5E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27468 (\N{CJK UNIFIED IDEOGRAPH-6B4C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+rendered 40 pieces -> media/before
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27604 (\N{CJK UNIFIED IDEOGRAPH-6BD4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27874 (\N{CJK UNIFIED IDEOGRAPH-6CE2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26222 (\N{CJK UNIFIED IDEOGRAPH-666E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25671 (\N{CJK UNIFIED IDEOGRAPH-6447}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25670 (\N{CJK UNIFIED IDEOGRAPH-6446}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29237 (\N{CJK UNIFIED IDEOGRAPH-7235}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22763 (\N{CJK UNIFIED IDEOGRAPH-58EB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22823 (\N{CJK UNIFIED IDEOGRAPH-5927}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38431 (\N{CJK UNIFIED IDEOGRAPH-961F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21475 (\N{CJK UNIFIED IDEOGRAPH-53E3}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26408 (\N{CJK UNIFIED IDEOGRAPH-6728}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31649 (\N{CJK UNIFIED IDEOGRAPH-7BA1}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20116 (\N{CJK UNIFIED IDEOGRAPH-4E94}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26032 (\N{CJK UNIFIED IDEOGRAPH-65B0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28789 (\N{CJK UNIFIED IDEOGRAPH-7075}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39746 (\N{CJK UNIFIED IDEOGRAPH-9B42}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31616 (\N{CJK UNIFIED IDEOGRAPH-7B80}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21333 (\N{CJK UNIFIED IDEOGRAPH-5355}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21697 (\N{CJK UNIFIED IDEOGRAPH-54C1}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38108 (\N{CJK UNIFIED IDEOGRAPH-94DC}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31649 (\N{CJK UNIFIED IDEOGRAPH-7BA1}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20116 (\N{CJK UNIFIED IDEOGRAPH-4E94}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24358 (\N{CJK UNIFIED IDEOGRAPH-5F26}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21512 (\N{CJK UNIFIED IDEOGRAPH-5408}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:46: UserWarning: Glyph 32500 (\N{CJK UNIFIED IDEOGRAPH-7EF4}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 20063 (\N{CJK UNIFIED IDEOGRAPH-4E5F}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 32435 (\N{CJK UNIFIED IDEOGRAPH-7EB3}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 22278 (\N{CJK UNIFIED IDEOGRAPH-5706}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 33310 (\N{CJK UNIFIED IDEOGRAPH-821E}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:47: UserWarning: Glyph 32500 (\N{CJK UNIFIED IDEOGRAPH-7EF4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 20063 (\N{CJK UNIFIED IDEOGRAPH-4E5F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 32435 (\N{CJK UNIFIED IDEOGRAPH-7EB3}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 22278 (\N{CJK UNIFIED IDEOGRAPH-5706}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 33310 (\N{CJK UNIFIED IDEOGRAPH-821E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24358 (\N{CJK UNIFIED IDEOGRAPH-5F26}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22235 (\N{CJK UNIFIED IDEOGRAPH-56DB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 65288 (\N{FULLWIDTH LEFT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28023 (\N{CJK UNIFIED IDEOGRAPH-6D77}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39039 (\N{CJK UNIFIED IDEOGRAPH-987F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39118 (\N{CJK UNIFIED IDEOGRAPH-98CE}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 65289 (\N{FULLWIDTH RIGHT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26408 (\N{CJK UNIFIED IDEOGRAPH-6728}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21513 (\N{CJK UNIFIED IDEOGRAPH-5409}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20182 (\N{CJK UNIFIED IDEOGRAPH-4ED6}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24377 (\N{CJK UNIFIED IDEOGRAPH-5F39}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21809 (\N{CJK UNIFIED IDEOGRAPH-5531}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20276 (\N{CJK UNIFIED IDEOGRAPH-4F34}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26032 (\N{CJK UNIFIED IDEOGRAPH-65B0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28789 (\N{CJK UNIFIED IDEOGRAPH-7075}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39746 (\N{CJK UNIFIED IDEOGRAPH-9B42}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24358 (\N{CJK UNIFIED IDEOGRAPH-5F26}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21512 (\N{CJK UNIFIED IDEOGRAPH-5408}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29237 (\N{CJK UNIFIED IDEOGRAPH-7235}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22763 (\N{CJK UNIFIED IDEOGRAPH-58EB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 19977 (\N{CJK UNIFIED IDEOGRAPH-4E09}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26705 (\N{CJK UNIFIED IDEOGRAPH-6851}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24052 (\N{CJK UNIFIED IDEOGRAPH-5DF4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26408 (\N{CJK UNIFIED IDEOGRAPH-6728}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21513 (\N{CJK UNIFIED IDEOGRAPH-5409}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20182 (\N{CJK UNIFIED IDEOGRAPH-4ED6}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24377 (\N{CJK UNIFIED IDEOGRAPH-5F39}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21809 (\N{CJK UNIFIED IDEOGRAPH-5531}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20276 (\N{CJK UNIFIED IDEOGRAPH-4F34}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 33832 (\N{CJK UNIFIED IDEOGRAPH-8428}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 33922 (\N{CJK UNIFIED IDEOGRAPH-8482}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39118 (\N{CJK UNIFIED IDEOGRAPH-98CE}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26684 (\N{CJK UNIFIED IDEOGRAPH-683C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 35064 (\N{CJK UNIFIED IDEOGRAPH-88F8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20307 (\N{CJK UNIFIED IDEOGRAPH-4F53}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27468 (\N{CJK UNIFIED IDEOGRAPH-6B4C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 33310 (\N{CJK UNIFIED IDEOGRAPH-821E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28789 (\N{CJK UNIFIED IDEOGRAPH-7075}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27468 (\N{CJK UNIFIED IDEOGRAPH-6B4C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22812 (\N{CJK UNIFIED IDEOGRAPH-591C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21476 (\N{CJK UNIFIED IDEOGRAPH-53E4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20856 (\N{CJK UNIFIED IDEOGRAPH-5178}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20027 (\N{CJK UNIFIED IDEOGRAPH-4E3B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39064 (\N{CJK UNIFIED IDEOGRAPH-9898}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 19982 (\N{CJK UNIFIED IDEOGRAPH-4E0E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21464 (\N{CJK UNIFIED IDEOGRAPH-53D8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24052 (\N{CJK UNIFIED IDEOGRAPH-5DF4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27931 (\N{CJK UNIFIED IDEOGRAPH-6D1B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20811 (\N{CJK UNIFIED IDEOGRAPH-514B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20108 (\N{CJK UNIFIED IDEOGRAPH-4E8C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22768 (\N{CJK UNIFIED IDEOGRAPH-58F0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37096 (\N{CJK UNIFIED IDEOGRAPH-90E8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21019 (\N{CJK UNIFIED IDEOGRAPH-521B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24847 (\N{CJK UNIFIED IDEOGRAPH-610F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:46: UserWarning: Glyph 21476 (\N{CJK UNIFIED IDEOGRAPH-53E4}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 31581 (\N{CJK UNIFIED IDEOGRAPH-7B5D}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 29420 (\N{CJK UNIFIED IDEOGRAPH-72EC}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:47: UserWarning: Glyph 21476 (\N{CJK UNIFIED IDEOGRAPH-53E4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 31581 (\N{CJK UNIFIED IDEOGRAPH-7B5D}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 29420 (\N{CJK UNIFIED IDEOGRAPH-72EC}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22812 (\N{CJK UNIFIED IDEOGRAPH-591C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21476 (\N{CJK UNIFIED IDEOGRAPH-53E4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20856 (\N{CJK UNIFIED IDEOGRAPH-5178}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27493 (\N{CJK UNIFIED IDEOGRAPH-6B65}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 33310 (\N{CJK UNIFIED IDEOGRAPH-821E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38271 (\N{CJK UNIFIED IDEOGRAPH-957F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31515 (\N{CJK UNIFIED IDEOGRAPH-7B1B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29420 (\N{CJK UNIFIED IDEOGRAPH-72EC}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39532 (\N{CJK UNIFIED IDEOGRAPH-9A6C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31062 (\N{CJK UNIFIED IDEOGRAPH-7956}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21345 (\N{CJK UNIFIED IDEOGRAPH-5361}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/usr/local/lib/python3.11/dist-packages/pretty_midi/pretty_midi.py:122: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/workspace/music-demo/render.py:46: UserWarning: Glyph 27874 (\N{CJK UNIFIED IDEOGRAPH-6CE2}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 23572 (\N{CJK UNIFIED IDEOGRAPH-5C14}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 21345 (\N{CJK UNIFIED IDEOGRAPH-5361}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:47: UserWarning: Glyph 27874 (\N{CJK UNIFIED IDEOGRAPH-6CE2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 23572 (\N{CJK UNIFIED IDEOGRAPH-5C14}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 21345 (\N{CJK UNIFIED IDEOGRAPH-5361}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21476 (\N{CJK UNIFIED IDEOGRAPH-53E4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20856 (\N{CJK UNIFIED IDEOGRAPH-5178}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 40483 (\N{CJK UNIFIED IDEOGRAPH-9E23}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20843 (\N{CJK UNIFIED IDEOGRAPH-516B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38899 (\N{CJK UNIFIED IDEOGRAPH-97F3}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 30418 (\N{CJK UNIFIED IDEOGRAPH-76D2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 32918 (\N{CJK UNIFIED IDEOGRAPH-8096}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37030 (\N{CJK UNIFIED IDEOGRAPH-90A6}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39118 (\N{CJK UNIFIED IDEOGRAPH-98CE}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26684 (\N{CJK UNIFIED IDEOGRAPH-683C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22812 (\N{CJK UNIFIED IDEOGRAPH-591C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22235 (\N{CJK UNIFIED IDEOGRAPH-56DB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25163 (\N{CJK UNIFIED IDEOGRAPH-624B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 32852 (\N{CJK UNIFIED IDEOGRAPH-8054}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24377 (\N{CJK UNIFIED IDEOGRAPH-5F39}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:46: UserWarning: Glyph 35199 (\N{CJK UNIFIED IDEOGRAPH-897F}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 37096 (\N{CJK UNIFIED IDEOGRAPH-90E8}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 20065 (\N{CJK UNIFIED IDEOGRAPH-4E61}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 26449 (\N{CJK UNIFIED IDEOGRAPH-6751}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:47: UserWarning: Glyph 35199 (\N{CJK UNIFIED IDEOGRAPH-897F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 37096 (\N{CJK UNIFIED IDEOGRAPH-90E8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 20065 (\N{CJK UNIFIED IDEOGRAPH-4E61}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 26449 (\N{CJK UNIFIED IDEOGRAPH-6751}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25289 (\N{CJK UNIFIED IDEOGRAPH-62C9}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26684 (\N{CJK UNIFIED IDEOGRAPH-683C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27888 (\N{CJK UNIFIED IDEOGRAPH-6CF0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22982 (\N{CJK UNIFIED IDEOGRAPH-59C6}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 38050 (\N{CJK UNIFIED IDEOGRAPH-94A2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 29748 (\N{CJK UNIFIED IDEOGRAPH-7434}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:46: UserWarning: Glyph 35856 (\N{CJK UNIFIED IDEOGRAPH-8C10}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 35857 (\N{CJK UNIFIED IDEOGRAPH-8C11}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:46: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.tight_layout()
+/workspace/music-demo/render.py:47: UserWarning: Glyph 35856 (\N{CJK UNIFIED IDEOGRAPH-8C10}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 35857 (\N{CJK UNIFIED IDEOGRAPH-8C11}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:47: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 31649 (\N{CJK UNIFIED IDEOGRAPH-7BA1}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24358 (\N{CJK UNIFIED IDEOGRAPH-5F26}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20048 (\N{CJK UNIFIED IDEOGRAPH-4E50}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22242 (\N{CJK UNIFIED IDEOGRAPH-56E2}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20840 (\N{CJK UNIFIED IDEOGRAPH-5168}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22863 (\N{CJK UNIFIED IDEOGRAPH-594F}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 21512 (\N{CJK UNIFIED IDEOGRAPH-5408}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 25104 (\N{CJK UNIFIED IDEOGRAPH-6210}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22120 (\N{CJK UNIFIED IDEOGRAPH-5668}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28010 (\N{CJK UNIFIED IDEOGRAPH-6D6A}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 28526 (\N{CJK UNIFIED IDEOGRAPH-6F6E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 65288 (\N{FULLWIDTH LEFT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 65289 (\N{FULLWIDTH RIGHT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 24052 (\N{CJK UNIFIED IDEOGRAPH-5DF4}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 36203 (\N{CJK UNIFIED IDEOGRAPH-8D6B}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 39118 (\N{CJK UNIFIED IDEOGRAPH-98CE}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 26684 (\N{CJK UNIFIED IDEOGRAPH-683C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22235 (\N{CJK UNIFIED IDEOGRAPH-56DB}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 22768 (\N{CJK UNIFIED IDEOGRAPH-58F0}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 37096 (\N{CJK UNIFIED IDEOGRAPH-90E8}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 20247 (\N{CJK UNIFIED IDEOGRAPH-4F17}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 36190 (\N{CJK UNIFIED IDEOGRAPH-8D5E}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+/workspace/music-demo/render.py:56: UserWarning: Glyph 27468 (\N{CJK UNIFIED IDEOGRAPH-6B4C}) missing from font(s) DejaVu Sans.
+  fig.savefig(png_path, dpi=150)
+rendered 40 pieces -> media/after
+valid 1% -> 12% | charts/ written
+only 0 prompts have audio in both; using all
+0 pairs -> blind/index.html  (answer key: blind/ANSWER_KEY.json)
+POST-DONE
+13 pairs

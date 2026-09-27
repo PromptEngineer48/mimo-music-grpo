@@ -1,0 +1,85 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 676.09it/s]
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights:   0%|          | 1/399 [00:02<18:45,  2.83s/it]Loading weights:   3%|▎         | 12/399 [00:03<01:17,  4.97it/s]Loading weights:   4%|▍         | 17/399 [00:03<00:51,  7.45it/s]Loading weights:   6%|▌         | 24/399 [00:03<00:35, 10.70it/s]Loading weights:   7%|▋         | 27/399 [00:04<00:40,  9.15it/s]Loading weights:   9%|▉         | 37/399 [00:04<00:28, 12.88it/s]Loading weights:  10%|█         | 40/399 [00:04<00:25, 14.30it/s]Loading weights:  12%|█▏        | 48/399 [00:05<00:27, 12.55it/s]Loading weights:  14%|█▍        | 56/399 [00:06<00:29, 11.57it/s]Loading weights:  15%|█▌        | 60/399 [00:06<00:25, 13.48it/s]Loading weights:  16%|█▋        | 65/399 [00:06<00:25, 13.17it/s]Loading weights:  19%|█▉        | 76/399 [00:07<00:19, 16.24it/s]Loading weights:  20%|██        | 81/399 [00:07<00:18, 17.40it/s]Loading weights:  22%|██▏       | 89/399 [00:07<00:14, 21.93it/s]Loading weights:  23%|██▎       | 92/399 [00:08<00:23, 13.27it/s]Loading weights:  24%|██▍       | 95/399 [00:08<00:21, 14.40it/s]Loading weights:  25%|██▌       | 100/399 [00:09<00:28, 10.58it/s]Loading weights:  26%|██▋       | 105/399 [00:09<00:21, 13.74it/s]Loading weights:  28%|██▊       | 111/399 [00:09<00:21, 13.21it/s]Loading weights:  29%|██▉       | 116/399 [00:09<00:16, 16.70it/s]Loading weights:  30%|███       | 120/399 [00:10<00:19, 14.43it/s]Loading weights:  31%|███       | 123/399 [00:10<00:17, 16.02it/s]Loading weights:  33%|███▎      | 131/399 [00:10<00:16, 15.93it/s]Loading weights:  34%|███▍      | 137/399 [00:11<00:13, 19.95it/s]Loading weights:  36%|███▌      | 144/399 [00:11<00:13, 18.34it/s]Loading weights:  37%|███▋      | 147/399 [00:11<00:13, 18.57it/s]Loading weights:  39%|███▉      | 155/399 [00:12<00:14, 16.86it/s]Loading weights:  40%|███▉      | 158/399 [00:12<00:15, 15.37it/s]Loading weights:  42%|████▏     | 167/399 [00:13<00:15, 14.92it/s]Loading weights:  43%|████▎     | 170/399 [00:13<00:14, 16.06it/s]Loading weights:  44%|████▍     | 177/399 [00:13<00:10, 20.38it/s]Loading weights:  45%|████▌     | 180/399 [00:13<00:13, 16.22it/s]Loading weights:  47%|████▋     | 188/399 [00:14<00:12, 16.56it/s]Loading weights:  48%|████▊     | 191/399 [00:14<00:11, 17.71it/s]Loading weights:  49%|████▉     | 197/399 [00:14<00:08, 22.94it/s]Loading weights:  50%|█████     | 201/399 [00:15<00:18, 10.97it/s]Loading weights:  52%|█████▏    | 208/399 [00:15<00:11, 15.96it/s]Loading weights:  53%|█████▎    | 212/399 [00:16<00:14, 12.89it/s]Loading weights:  55%|█████▍    | 219/399 [00:16<00:15, 11.66it/s]Loading weights:  56%|█████▌    | 224/399 [00:16<00:12, 13.91it/s]Loading weights:  58%|█████▊    | 232/399 [00:17<00:14, 11.91it/s]Loading weights:  60%|██████    | 241/399 [00:18<00:10, 15.55it/s]Loading weights:  62%|██████▏   | 248/399 [00:18<00:07, 19.97it/s]Loading weights:  64%|██████▎   | 254/399 [00:18<00:09, 14.85it/s]Loading weights:  65%|██████▍   | 259/399 [00:18<00:07, 17.83it/s]Loading weights:  66%|██████▌   | 263/399 [00:19<00:07, 18.13it/s]Loading weights:  67%|██████▋   | 268/399 [00:19<00:05, 21.91it/s]Loading weights:  68%|██████▊   | 272/399 [00:19<00:05, 24.23it/s]Loading weights:  69%|██████▉   | 276/399 [00:20<00:10, 11.59it/s]Loading weights:  70%|██████▉   | 279/399 [00:20<00:09, 12.00it/s]Loading weights:  72%|███████▏  | 287/399 [00:20<00:05, 19.40it/s]Loading weights:  73%|███████▎  | 291/399 [00:21<00:09, 11.66it/s]Loading weights:  75%|███████▍  | 298/399 [00:21<00:06, 15.25it/s]Loading weights:  75%|███████▌  | 301/399 [00:21<00:06, 16.05it/s]Loading weights:  77%|███████▋  | 309/399 [00:22<00:07, 12.44it/s]Loading weights:  78%|███████▊  | 312/399 [00:22<00:06, 13.88it/s]Loading weights:  80%|███████▉  | 318/399 [00:23<00:05, 14.24it/s]Loading weights:  82%|████████▏ | 329/399 [00:23<00:03, 18.36it/s]Loading weights:  84%|████████▍ | 335/399 [00:23<00:02, 22.03it/s]Loading weights:  86%|████████▌ | 342/399 [00:24<00:04, 13.55it/s]Loading weights:  87%|████████▋ | 347/399 [00:24<00:03, 16.15it/s]Loading weights:  88%|████████▊ | 351/399 [00:25<00:03, 13.29it/s]Loading weights:  91%|█████████ | 362/399 [00:25<00:02, 15.32it/s]Loading weights:  92%|█████████▏| 367/399 [00:25<00:01, 17.91it/s]Loading weights:  94%|█████████▍| 375/399 [00:26<00:01, 15.22it/s]Loading weights:  95%|█████████▍| 378/399 [00:26<00:01, 16.09it/s]Loading weights:  97%|█████████▋| 386/399 [00:27<00:01, 12.58it/s]Loading weights:  99%|█████████▉| 395/399 [00:27<00:00, 18.17it/s]Loading weights: 100%|██████████| 399/399 [00:27<00:00, 14.43it/s]
+Loading safetensors checkpoint shards:   0% Completed | 0/5 [00:00<?, ?it/s]
+Loading safetensors checkpoint shards:  20% Completed | 1/5 [00:00<00:02,  1.50it/s]
+Loading safetensors checkpoint shards:  40% Completed | 2/5 [00:01<00:02,  1.43it/s]
+Loading safetensors checkpoint shards:  60% Completed | 3/5 [00:02<00:01,  1.42it/s]
+Loading safetensors checkpoint shards:  80% Completed | 4/5 [00:02<00:00,  1.52it/s]
+Loading safetensors checkpoint shards: 100% Completed | 5/5 [00:02<00:00,  1.97it/s]
+Loading safetensors checkpoint shards: 100% Completed | 5/5 [00:02<00:00,  1.71it/s]
+
+Capturing CUDA graphs (PIECEWISE):   0%|          | 0/35 [00:00<?, ?it/s]Capturing CUDA graphs (PIECEWISE):   3%|▎         | 1/35 [00:00<00:05,  6.44it/s]Capturing CUDA graphs (PIECEWISE):   6%|▌         | 2/35 [00:00<00:06,  5.35it/s]Capturing CUDA graphs (PIECEWISE):   9%|▊         | 3/35 [00:00<00:07,  4.52it/s]Capturing CUDA graphs (PIECEWISE):  11%|█▏        | 4/35 [00:00<00:05,  5.20it/s]Capturing CUDA graphs (PIECEWISE):  14%|█▍        | 5/35 [00:00<00:05,  5.07it/s]Capturing CUDA graphs (PIECEWISE):  17%|█▋        | 6/35 [00:01<00:05,  5.09it/s]Capturing CUDA graphs (PIECEWISE):  20%|██        | 7/35 [00:01<00:05,  5.16it/s]Capturing CUDA graphs (PIECEWISE):  23%|██▎       | 8/35 [00:02<00:09,  2.76it/s]Capturing CUDA graphs (PIECEWISE):  29%|██▊       | 10/35 [00:02<00:05,  4.52it/s]Capturing CUDA graphs (PIECEWISE):  34%|███▍      | 12/35 [00:02<00:03,  6.31it/s]Capturing CUDA graphs (PIECEWISE):  37%|███▋      | 13/35 [00:02<00:03,  6.69it/s]Capturing CUDA graphs (PIECEWISE):  40%|████      | 14/35 [00:02<00:02,  7.04it/s]Capturing CUDA graphs (PIECEWISE):  46%|████▌     | 16/35 [00:02<00:02,  8.01it/s]Capturing CUDA graphs (PIECEWISE):  51%|█████▏    | 18/35 [00:02<00:01,  8.70it/s]Capturing CUDA graphs (PIECEWISE):  54%|█████▍    | 19/35 [00:03<00:01,  8.51it/s]Capturing CUDA graphs (PIECEWISE):  57%|█████▋    | 20/35 [00:03<00:01,  8.73it/s]Capturing CUDA graphs (PIECEWISE):  60%|██████    | 21/35 [00:03<00:01,  8.33it/s]Capturing CUDA graphs (PIECEWISE):  63%|██████▎   | 22/35 [00:03<00:01,  8.58it/s]Capturing CUDA graphs (PIECEWISE):  66%|██████▌   | 23/35 [00:03<00:01,  8.25it/s]Capturing CUDA graphs (PIECEWISE):  69%|██████▊   | 24/35 [00:03<00:01,  8.51it/s]Capturing CUDA graphs (PIECEWISE):  71%|███████▏  | 25/35 [00:03<00:01,  8.17it/s]Capturing CUDA graphs (PIECEWISE):  74%|███████▍  | 26/35 [00:03<00:01,  7.68it/s]Capturing CUDA graphs (PIECEWISE):  77%|███████▋  | 27/35 [00:04<00:01,  7.64it/s]Capturing CUDA graphs (PIECEWISE):  83%|████████▎ | 29/35 [00:04<00:00,  9.32it/s]Capturing CUDA graphs (PIECEWISE):  86%|████████▌ | 30/35 [00:04<00:00,  9.26it/s]Capturing CUDA graphs (PIECEWISE):  91%|█████████▏| 32/35 [00:04<00:00, 10.23it/s]Capturing CUDA graphs (PIECEWISE):  97%|█████████▋| 34/35 [00:04<00:00, 10.47it/s]Capturing CUDA graphs (PIECEWISE): 100%|██████████| 35/35 [00:04<00:00,  7.20it/s]
+Capturing CUDA graphs (FULL):   0%|          | 0/2 [00:00<?, ?it/s]Capturing CUDA graphs (FULL): 100%|██████████| 2/2 [00:00<00:00, 34.59it/s]
+Capturing CUDA graphs (PIECEWISE):   0%|          | 0/35 [00:00<?, ?it/s]Capturing CUDA graphs (PIECEWISE):   6%|▌         | 2/35 [00:00<00:02, 15.30it/s]Capturing CUDA graphs (PIECEWISE):  11%|█▏        | 4/35 [00:00<00:01, 16.10it/s]Capturing CUDA graphs (PIECEWISE):  17%|█▋        | 6/35 [00:00<00:01, 16.30it/s]Capturing CUDA graphs (PIECEWISE):  23%|██▎       | 8/35 [00:00<00:01, 16.41it/s]Capturing CUDA graphs (PIECEWISE):  29%|██▊       | 10/35 [00:00<00:01, 16.32it/s]Capturing CUDA graphs (PIECEWISE):  34%|███▍      | 12/35 [00:00<00:01, 16.34it/s]Capturing CUDA graphs (PIECEWISE):  40%|████      | 14/35 [00:00<00:01, 16.35it/s]Capturing CUDA graphs (PIECEWISE):  46%|████▌     | 16/35 [00:00<00:01, 16.36it/s]Capturing CUDA graphs (PIECEWISE):  51%|█████▏    | 18/35 [00:01<00:01, 16.32it/s]Capturing CUDA graphs (PIECEWISE):  57%|█████▋    | 20/35 [00:01<00:00, 16.30it/s]Capturing CUDA graphs (PIECEWISE):  63%|██████▎   | 22/35 [00:01<00:00, 16.10it/s]Capturing CUDA graphs (PIECEWISE):  69%|██████▊   | 24/35 [00:01<00:00, 16.12it/s]Capturing CUDA graphs (PIECEWISE):  74%|███████▍  | 26/35 [00:01<00:00, 16.10it/s]Capturing CUDA graphs (PIECEWISE):  80%|████████  | 28/35 [00:01<00:00, 16.09it/s]Capturing CUDA graphs (PIECEWISE):  89%|████████▊ | 31/35 [00:01<00:00, 17.48it/s]Capturing CUDA graphs (PIECEWISE):  94%|█████████▍| 33/35 [00:01<00:00, 17.90it/s]Capturing CUDA graphs (PIECEWISE): 100%|██████████| 35/35 [00:02<00:00, 18.44it/s]Capturing CUDA graphs (PIECEWISE): 100%|██████████| 35/35 [00:02<00:00, 16.81it/s]
+Capturing CUDA graphs (FULL):   0%|          | 0/19 [00:00<?, ?it/s]Capturing CUDA graphs (FULL):  26%|██▋       | 5/19 [00:00<00:00, 42.01it/s]Capturing CUDA graphs (FULL):  53%|█████▎    | 10/19 [00:00<00:00, 41.73it/s]Capturing CUDA graphs (FULL):  79%|███████▉  | 15/19 [00:00<00:00, 42.21it/s]Capturing CUDA graphs (FULL): 100%|██████████| 19/19 [00:00<00:00, 42.43it/s]
+[transformers] The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'bos_token_id': None}.
+  0%|          | 0/60 [00:00<?, ?it/s][rank0]:[W927 03:01:57.105857184 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 19920846848 bytes (free: 3833724928, total: 85017493504).
+[rank0]:[W927 03:01:57.130037737 CUDACachingAllocator.cpp:3933] memory allocation failed with OOM on device 0 while trying to allocate 19920846848 bytes (free: 12585140224, total: 85017493504).
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/workspace/music-demo/train_grpo.py", line 89, in <module>
+[rank0]:     main()
+[rank0]:   File "/workspace/music-demo/train_grpo.py", line 81, in main
+[rank0]:     trainer.train()
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/transformers/trainer.py", line 1520, in train
+[rank0]:     return inner_training_loop(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/transformers/trainer.py", line 1602, in _inner_training_loop
+[rank0]:     self._run_epoch(
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/transformers/trainer.py", line 1842, in _run_epoch
+[rank0]:     tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+[rank0]:                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/trl/trainer/grpo_trainer.py", line 1597, in training_step
+[rank0]:     output = super().training_step(model, inputs, num_items_in_batch)
+[rank0]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/transformers/trainer.py", line 2008, in training_step
+[rank0]:     inputs = self._prepare_inputs(inputs)
+[rank0]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/trl/extras/profiling.py", line 211, in wrapper
+[rank0]:     return func(self, *args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/trl/trainer/grpo_trainer.py", line 1626, in _prepare_inputs
+[rank0]:     generation_batch = self._generate_and_score_completions(generation_batch)
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/trl/trainer/grpo_trainer.py", line 2696, in _generate_and_score_completions
+[rank0]:     old_per_token_logps, _, _ = self._get_per_token_logps_and_entropies(
+[rank0]:                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/trl/extras/profiling.py", line 211, in wrapper
+[rank0]:     return func(self, *args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/trl/trainer/grpo_trainer.py", line 1373, in _get_per_token_logps_and_entropies
+[rank0]:     return self._full_logits_logps(
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/trl/trainer/grpo_trainer.py", line 1564, in _full_logits_logps
+[rank0]:     outputs = model(**model_inputs)
+[rank0]:               ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/torch/nn/modules/module.py", line 1778, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/torch/nn/modules/module.py", line 1789, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/accelerate/utils/operations.py", line 943, in forward
+[rank0]:     return model_forward(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/accelerate/utils/operations.py", line 931, in __call__
+[rank0]:     return convert_to_fp32(self.model_forward(*args, **kwargs))
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/accelerate/utils/operations.py", line 910, in convert_to_fp32
+[rank0]:     return recursively_apply(_convert_to_fp32, tensor, test_type=_is_fp16_bf16_tensor)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/accelerate/utils/operations.py", line 119, in recursively_apply
+[rank0]:     {
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/accelerate/utils/operations.py", line 120, in <dictcomp>
+[rank0]:     k: recursively_apply(
+[rank0]:        ^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/accelerate/utils/operations.py", line 127, in recursively_apply
+[rank0]:     return func(data, *args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/usr/local/lib/python3.11/dist-packages/accelerate/utils/operations.py", line 902, in _convert_to_fp32
+[rank0]:     return tensor.float()
+[rank0]:            ^^^^^^^^^^^^^^
+[rank0]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 18.55 GiB. GPU 0 has a total capacity of 79.18 GiB of which 11.72 GiB is free. Process 1438689 has 67.45 GiB memory in use. Of the allocated memory 65.41 GiB is allocated by PyTorch, with 104.00 MiB allocated in private pools (e.g., CUDA Graphs), and 1.11 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+  0%|          | 0/60 [01:24<?, ?it/s]
+[rank0]:[W927 03:01:58.964761152 ProcessGroupNCCL.cpp:1624] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+TRAIN-DONE

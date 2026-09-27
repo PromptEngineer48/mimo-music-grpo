@@ -1,0 +1,171 @@
+X:1
+T:Summer Dusk Flyover
+M:4/4
+L:1/8
+Q:154
+K:E Maj
+V:Sax1
+% Saxophone Section (Lead)
+C C E E D D C C
+E E G G F F E E
+C C E E D D C C
+E E G G F F E E
+V:Sax2
+% Saxophone Section (Rhythm)
+C C D D E E D D
+F F G G A A G G
+C C D D E E D D
+F F G G A A G G
+V:Sax3
+% Saxophone Section (Harmony)
+E E G G A A G G
+D D C C E E D D
+E E G G A A G G
+D D C C E E D D
+V:Brass1
+% Brass Section (Lead)
+C C E E D D C C
+E E G G F F E E
+C C E E D D C C
+E E G G F F E E
+V:Brass2
+% Brass Section (Rhythm)
+C C D D E E D D
+F F G G A A G G
+C C D D E E D D
+F F G G A A G G
+V:Piano
+% Piano (Accompaniment)
+C C C C D D D D
+E E E E F F F F
+G G G G A A A A
+G G G G F F F F
+V:Bass
+% Bass (Walking Line)
+E E E E D D D D
+C C C C B B B B
+A A A A G G G G
+F F F F E E E E
+V:Drums
+% Drums (Swing Rhythm)
+C C C C E E E E
+C C C C E E E E
+C C C C E E E E
+C C C C E E E E
+% Sectional Call-and-Response: Sax Lead >> Brass Response >> All
+V:Sax1
+% Lead Sax (Full)
+C C E E D D C C
+E E G G F F E E
+C C E E D D C C
+E E G G F F E E
+V:Sax2
+% Rhythm Sax (Response)
+C C D D E E D D
+F F G G A A G G
+C C D D E E D D
+F F G G A A G G
+V:Brass1
+% Lead Brass (Full)
+C C E E D D C C
+E E G G F F E E
+C C E E D D C C
+E E G G F F E E
+V:Brass2
+% Rhythm Brass (Response)
+C C D D E E D D
+F F G G A A G G
+C C D D E E D D
+F F G G A A G G
+V:Piano
+% Piano (Response)
+C C C C D D D D
+E E E E F F F F
+G G G G A A A A
+G G G G F F F F
+V:Bass
+% Bass (Response)
+E E E E D D D D
+C C C C B B B B
+A A A A G G G G
+F F F F E E E E
+V:Drums
+% Drums (Response)
+C C C C E E E E
+C C C C E E E E
+C C C C E E E E
+C C C C E E E E
+% Middle Section - Thinned to Two Voices
+V:Sax1
+% Thin Sax Lead
+C C E E D D C C
+E E G G F F E E
+C C E E D D C C
+E E G G F F E E
+V:Brass1
+% Thin Brass Lead
+C C E E D D C C
+E E G G F F E E
+C C E E D D C C
+E E G G F F E E
+V:Piano
+% Piano (Thinned)
+C C C C D D D D
+E E E E F F F F
+G G G G A A A A
+G G G G F F F F
+V:Bass
+% Bass (Thinned)
+E E E E D D D D
+C C C C B B B B
+A A A A G G G G
+F F F F E E E E
+V:Drums
+% Drums (Thinned)
+C C C C E E E E
+C C C C E E E E
+C C C C E E E E
+C C C C E E E E
+% Full Return - Crescendo to Final Tonic
+V:Sax1
+% Full Sax Lead
+C C E E D D C C
+E E G G F F E E
+C C E E D D C C
+E E G G F F E E
+V:Sax2
+% Full Sax Rhythm
+C C D D E E D D
+F F G G A A G G
+C C D D E E D D
+F F G G A A G G
+V:Brass1
+% Full Brass Lead
+C C E E D D C C
+E E G G F F E E
+C C E E D D C C
+E E G G F F E E
+V:Brass2
+% Full Brass Rhythm
+C C D D E E D D
+F F G G A A G G
+C C D D E E D D
+F F G G A A G G
+V:Piano
+% Piano (Full)
+C C C C D D D D
+E E E E F F F F
+G G G G A A A A
+G G G G F F F F
+V:Bass
+% Bass (Full)
+E E E E D D D D
+C C C C B B B B
+A A A A G G G G
+F F F F E E E E
+V:Drums
+% Drums (Full)
+C C C C E E E E
+C C C C E E E E
+C C C C E E E E
+C C C C E E E E

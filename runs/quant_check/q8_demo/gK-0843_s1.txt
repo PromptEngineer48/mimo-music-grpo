@@ -1,0 +1,254 @@
+Compose a Viennese waltz in Eb major, 181 BPM allegro, 3/4, about 96 bars and about three and a half minutes, scored for strings and harp in 4 voices. Texture: a slightly anticipated waltz bass under an elegant sweeping tune. Open with 8 bars of strings alone, then layer the other parts in one at a time. The main section runs on a 4-bar diatonic loop of I–IV–V–I, unchanged throughout. Thin the middle section to two voices for two descending phrases, then return with everything for the fullest passage. Dynamics start at p, push to mf in the middle and settle back to p for a sustained tonic close. Aim for the feeling of a rooftop above neon. Use no ornament symbols; write every note out. Output the complete piece as ABC notation.
+
+SCORE 0.507
+
+```abc
+X:1
+T:Viennese Waltz in Eb Major
+M:3/4
+L:1/8
+Q:181
+K:Eb major
+V:1  % Strings (Lead)
+M:3/4
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+V:2  % Strings (Support)
+M:3/4
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+V:3  % Harp (Rhythm)
+M:3/4
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+V:4  % Strings (Bass)
+M:3/4
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+V:1
+M:3/4
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+V:2
+M:3/4
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+V:3
+M:3/4
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+V:4
+M:3/4
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+V:1
+M:3/4
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+V:2
+M:3/4
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+V:3
+M:3/4
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+V:4
+M:3/4
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+V:1
+M:3/4
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+V:2
+M:3/4
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+V:3
+M:3/4
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+V:4
+M:3/4
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+V:1
+M:3/4
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+V:2
+M:3/4
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+V:3
+M:3/4
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+V:4
+M:3/4
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+V:1
+M:3/4
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+A4 A A A B B B B
+A4 A A A B B B B
+C2 C C C D D D D
+C2 C C C D D D D
+V:2
+M:3/4
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+G4 G G G A A A A
+G4 G G G A A A A
+B2 B B B C C C C
+B2 B B B C C C C
+V:3
+M:3/4
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+C4 C C C D D D D
+C4 C C C D D D D
+E2 E E E F F F F
+E2 E E E F F F F
+V:4
+M:3/4
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+Eb4 Eb Eb Eb F F F F
+Eb4 Eb Eb Eb F F F F
+G2 G G G A A A A
+G2 G G G A A A A
+```
+
+This piece features a lush, atmospheric texture with a classic Viennese waltz rhythm. The string sections move in a clear, elegant melody supported by a harp rhythm, and the bass provides a strong, anticipated groove. Dynamics are written to reflect the gradual build and release, with a return to pianissimo at the end for a contemplative, luminous close.

@@ -1,0 +1,75 @@
+Compose a neo-soul instrumental in C major, 88 BPM andante, 4/4, about 96 bars and about three and a half minutes, scored for electric piano, sax, fretless bass and drums in 4 voices. Texture: syncopated electric piano with improvisatory sax lines. Open with 4 bars of electric piano alone, then layer the other parts in one at a time. The main section runs on a 8-bar diatonic loop of I–IV–V–I, unchanged throughout. Thin the middle section to two voices for two descending phrases, then return with everything for the fullest passage. Dynamics start at p, push to mf in the middle and settle back to p for a sustained tonic close. Aim for the feeling of a spring in the hills. Use no ornament symbols; write every note out. Output the complete piece as ABC notation.
+
+SCORE 0.235
+
+```abc
+X:1
+T:Neo-Soul Spring in the Hills
+M:4/4
+L:1/8
+Q:88
+K:C Maj
+V:1 % Electric Piano
+%% Open with 4 bars of electric piano alone
+c2 z2 c2 z2 c2 z2 c2 z2
+%% Layer in sax (V:2), bass (V:3), drums (V:4) one at a time
+V:2 % Sax (improvisatory)
+c2 z2 c2 z2 c2 z2 c2 z2
+V:3 % Fretless Bass
+c2 z2 c2 z2 c2 z2 c2 z2
+V:4 % Drums (syncopated)
+c2 z2 c2 z2 c2 z2 c2 z2
+%% Main section: 8-bar loop I–IV–V–I (C–F–G–C)
+V:1 % Electric Piano
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:2 % Sax
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:3 % Bass
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:4 % Drums
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+%% Repeat main section for 8 bars (total of 8 bars)
+V:1 % Piano
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:2 % Sax
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:3 % Bass
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:4 % Drums
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+%% Repeat for 8 bars (total so far: 16 bars)
+V:1 % Piano
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:2 % Sax
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:3 % Bass
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:4 % Drums
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+%% Middle section: thin to 2 voices for two descending phrases
+V:1 % Piano
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:2 % Sax (descending)
+g2 z2 g2 z2 g2 z2 g2 z2
+V:3 % Bass (inactive)
+V:4 % Drums (inactive)
+%% Return with everything for the fullest passage
+V:1 % Piano
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:2 % Sax
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:3 % Bass
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:4 % Drums
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+%% Final resolution: sustained tonic (C) with dynamics from p to mf and back to p
+V:1 % Piano
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:2 % Sax
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:3 % Bass
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+V:4 % Drums
+c2 z2 c2 z2 c2 z2 c2 z2 c2 z2
+%% End of piece
+```

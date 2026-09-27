@@ -1,0 +1,83 @@
+X:1
+T:Viennese Waltz in Eb Major - Rooftop Above Neon
+M:3/4
+L:1/8
+Q:181
+K:Eb major
+V:1  % Strings (violins, violas, cellos)
+% Open with 8 bars of strings alone
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+G,2 G,2 G,2 G,2
+% Layer harp
+V:2  % Harp
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+G,2 G,2 G,2 G,2
+% Layer bass (violins, cellos)
+V:3  % Bass
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+G,2 G,2 G,2 G,2
+% Main section: I–IV–V–I loop (4 bars)
+V:1  % Strings
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+A,2 A,2 A,2 A,2
+E,2 E,2 E,2 E,2
+V:2  % Harp
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+A,2 A,2 A,2 A,2
+E,2 E,2 E,2 E,2
+V:3  % Bass
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+A,2 A,2 A,2 A,2
+E,2 E,2 E,2 E,2
+% Middle section: thin to two voices
+V:1  % Strings
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+A,2 A,2 A,2 A,2
+E,2 E,2 E,2 E,2
+V:2  % Harp
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+A,2 A,2 A,2 A,2
+E,2 E,2 E,2 E,2
+% Return with full ensemble
+V:1  % Strings
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+A,2 A,2 A,2 A,2
+E,2 E,2 E,2 E,2
+V:2  % Harp
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+A,2 A,2 A,2 A,2
+E,2 E,2 E,2 E,2
+V:3  % Bass
+E,2 E,2 E,2 E,2
+G,2 G,2 G,2 G,2
+A,2 A,2 A,2 A,2
+E,2 E,2 E,2 E,2
+% Final sustained tonic close
+V:1  % Strings
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+V:2  % Harp
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+V:3  % Bass
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2
+E,2 E,2 E,2 E,2

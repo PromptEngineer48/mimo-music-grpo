@@ -1,0 +1,169 @@
+X:1
+T:Morning Light in the Kitchen
+M:4/4
+L:1/8
+Q:113
+K:Eb major
+V:Trumpet 1
+% Lead voice
+% First 4 bars solo
+% pp
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Layer in other parts
+% Bar 5: Trombone 1 enters
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bar 6: French horn enters
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bar 7: Tuba enters
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bar 8: All together
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Trombone 1
+% Root voice
+% Bars 1-4: rest
+%% 
+%% 
+%% 
+%% 
+% Bar 5: enters
+B2 A2 B2 A2
+B2 A2 B2 A2
+% Bar 6: adds harmony
+B2 A2 B2 A2
+B2 A2 B2 A2
+% Bar 7: adds bass
+B2 A2 B2 A2
+B2 A2 B2 A2
+% Bar 8: all together
+B2 A2 B2 A2
+B2 A2 B2 A2
+V:French Horn
+% Inner harmony
+% Bars 1-4: rest
+%% 
+%% 
+%% 
+%% 
+% Bar 5: enters
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bar 6: adds upper harmony
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bar 7: adds bass
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bar 8: all together
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Tuba
+% Bass line
+% Bars 1-4: rest
+%% 
+%% 
+%% 
+%% 
+% Bar 5: enters
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bar 6: adds bass progression
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bar 7: adds harmony
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bar 8: all together
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Trumpet 2
+% Inner harmony
+% Bars 1-4: rest
+%% 
+%% 
+%% 
+%% 
+% Bar 5: enters
+B2 A2 B2 A2
+B2 A2 B2 A2
+% Bar 6: adds texture
+B2 A2 B2 A2
+B2 A2 B2 A2
+% Bar 7: adds counterpoint
+B2 A2 B2 A2
+B2 A2 B2 A2
+% Bar 8: all together
+B2 A2 B2 A2
+B2 A2 B2 A2
+% Main section: 4-bar loop of I–V–vi–IV
+% Bars 9-12: I (Eb major), V (Bb), vi (C), IV (A)
+% mf
+% Bars 9-12: all voices
+V:Trumpet 1
+A2 B2 A2 B2
+A2 B2 A2 B2
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Trombone 1
+B2 A2 B2 A2
+B2 A2 B2 A2
+B2 A2 B2 A2
+B2 A2 B2 A2
+V:French Horn
+A2 B2 A2 B2
+A2 B2 A2 B2
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Tuba
+A2 B2 A2 B2
+A2 B2 A2 B2
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Trumpet 2
+B2 A2 B2 A2
+B2 A2 B2 A2
+B2 A2 B2 A2
+B2 A2 B2 A2
+% Middle section: thin to two voices for two descending phrases
+% Bars 13-14: Trumpet 1 and Tuba
+% pp
+V:Trumpet 1
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Tuba
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Bars 15-16: same
+V:Trumpet 1
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Tuba
+A2 B2 A2 B2
+A2 B2 A2 B2
+% Return to full ensemble for the fullest passage
+% Bars 17-20: I–V–vi–IV again
+% mf
+% Bars 17-20: all voices
+% Final passage
+% Bars 21-24: sustained tonic close
+% pp
+% Final 4 bars
+V:Trumpet 1
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Trombone 1
+B2 A2 B2 A2
+B2 A2 B2 A2
+V:French Horn
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Tuba
+A2 B2 A2 B2
+A2 B2 A2 B2
+V:Trumpet 2
+B2 A2 B2 A2
+B2 A2 B2 A2
